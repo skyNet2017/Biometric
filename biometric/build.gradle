@@ -27,4 +27,4 @@ dependencies {
     implementation androidXBiometric
 }
 
-apply from: rootProject.file('gradle/publish-mavencentral.gradle')
+//apply from: rootProject.file('gradle/publish-mavencentral.gradle')
